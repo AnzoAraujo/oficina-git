@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Commit 01
+=======
+>>>>>>> parent of bc6c190 (Commit 01)
